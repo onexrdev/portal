@@ -1,1 +1,1 @@
-OneXR - Portal
+The Admin Portal in OneXR allows administrators to manage their organization's VR content and users efficiently. This portal allows Admins to create and manage user accounts, assign roles, and control access to specific VR packages and experiences. It ensures streamlined content distribution and user oversight within the organization.
