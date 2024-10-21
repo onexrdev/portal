@@ -65,7 +65,7 @@ Portal URL - https://onexrportal.us/
   - [6.3 User List](https://github.com/onexrdev/portal/wiki/User-Screen#63-user-list)
 
 - **[7.0 Catgory](https://github.com/onexrdev/portal/wiki/Category#category)**
-  - 7.1 [Add Category](https://github.com/onexrdev/portal/wiki/Category#71-add-category-)
+  -  [7.1 Add Category](https://github.com/onexrdev/portal/wiki/Category#71-add-category-)
 
 - **[8.0 Package](https://github.com/onexrdev/portal/wiki/Package#package)**
 
