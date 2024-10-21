@@ -1,9 +1,9 @@
 <p align ="center"height=500width =500> <img src= "https://github.com/onexrdev/portal/blob/main/Images/main%20image.png" /></p><br>
 
 
-###### *Introduction*
+#### *Introduction*
 
-## *Overview of OneXR Platform*
+## Overview of OneXR Platform
 The OneXR Platform is a powerful solution designed to enhance product visualization, sales presentations, training experiences, and immersive customer interactions using extended reality (XR) technologies. With components like the OneXR Portal (CMS) for content management, the OneXR Creator for building XR experiences, and the OneXR Hub for delivering these experiences on multiple devices (Web, VR, Mobile), the platform serves as a versatile tool for businesses to engage with their clients effectively.
 This guide provides step-by-step instructions for using the various features and tools of the OneXR Platform.
 
