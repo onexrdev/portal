@@ -1,4 +1,4 @@
-![unnamed](https://github.com/user-attachments/assets/a57d1164-3820-4715-a610-b665b9d62e47)
+![main image](https://github.com/user-attachments/assets/a57d1164-3820-4715-a610-b665b9d62e47)
 
 ### [**Portal-User-Guideline**](https://github.com/onexrdev/portal/wiki/OneXR%E2%80%90-Portal-User-Guideline)
 
@@ -20,7 +20,27 @@
 
 6. [Creating the New Admin](https://github.com/onexrdev/portal/wiki/OneXR-Portal#1-creating-the-new-client-admin)
 -[github documentation]
-- [portal documentation]
 
-  <p align="center">Enter the email ID.</p>
+  ## Creating the New Client Admin
+
+### Registration Process
+1. **Accessing the Registration Screen**  
+   On the login screen, click the "Register Now" link.
+
+2. **Entering Email Address**  
+   Only the Company Email Address will be taken...
+   
+
+## Login Screen
+1. **Enter Email Address**  
+   Example: john@demo.com
+
+2. **Enter Password**  
+   Example: john@12345
+
+
+## Forgot Password Screen
+- Click on the "Forgot Password" button displayed on the login screen...
+
+---
 
